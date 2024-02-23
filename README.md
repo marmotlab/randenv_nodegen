@@ -14,7 +14,7 @@ A2C RL + pruning after-processing to plot key nodes in a randomly generated envi
 2. run model_verifier,py. Observe pygame window to see final node position after pruning
 3. press enter to regenerate random map and see new node positions
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/marmotlab/randenv_nodegen/blob/main/sample_output.png?raw=true)
 
 NOTE:
 1. reward strcture is within finder_gym.py

@@ -1,6 +1,8 @@
 # randenv_nodegen
 A2C RL + pruning after-processing to plot key nodes in a randomly generated environment. 
 
+![](https://github.com/marmotlab/randenv_nodegen/blob/main/sample_code_run.gif)
+
 #how to train new models
 1. change EXPERIMENT_NAME and EXPERIMENT_NOTE under alg_parameters.py -> RecordingParameters
 2. create new directory inside complete_map called EXPERIMENT_NAME (from step 1)
